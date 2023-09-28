@@ -1,0 +1,11 @@
+# Archivos y directorios de la base de datos de Django
+db.sqlite3
+/migrations/
+
+# Archivos y directorios de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos locales de configuración (configura según tus necesidades)
+settings/local.py

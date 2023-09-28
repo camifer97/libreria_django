@@ -1,0 +1,1 @@
+Este proyecto ha sido creado con la intención de practicar lo aprendido en el curso de Django. 
